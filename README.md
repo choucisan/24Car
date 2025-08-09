@@ -10,6 +10,6 @@
 ![](images/2.png)
 
 ## 📺 循迹视频
-![bilibili](https://www.bilibili.com/video/BV1ptM3zGEmb/?share_source=copy_web&vd_source=c7f8a77238a716588eb14fb87c76f83f)
+![](https://www.bilibili.com/video/BV1ptM3zGEmb/?share_source=copy_web&vd_source=c7f8a77238a716588eb14fb87c76f83f)
 
 📮[choucisan@gmail.com]
