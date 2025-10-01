@@ -1,15 +1,27 @@
 ![](images/car.png)
-# [24电赛H题] 自动行驶小车，完整代码，即连即用！
+# [2024 Electronic Design Contest - Problem H] Autonomous Car — Complete Plug-and-Play Code!
 
-## 🎯 项目介绍
-本项目基于 SMPG03507 控制主板，结合灰度传感器和陀螺仪，通过 PID 算法动态调节左右轮电机转速，实现黑线循迹与控制。小车可识别黑线并进行稳定跟踪，并完成24年电赛H题
----
-## 📊题目介绍
+## 🎯 Project Introduction
+
+This project is based on the SMPG03507 control board, combined with grayscale sensors and a gyroscope.
+Using the PID algorithm, it dynamically adjusts the motor speed of the left and right wheels to achieve black-line tracking and control.
+The car can detect black lines, follow them stably, and successfully solve Problem H of the 2024 E-Design Contest.
+
+⸻
+
+## 📊 Problem Description
 ![](images/1.png)
 
 ![](images/2.png)
 
-## 📺 循迹视频
+⸻
+
+## 📺 Line-Following Demo Video
+
 [bilibili](https://www.bilibili.com/video/BV1ptM3zGEmb)
 
-📮[choucisan@gmail.com]
+⸻
+
+📧 [choucisan@gmail.com]
+
+
